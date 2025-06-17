@@ -3,7 +3,7 @@ name: Update awesome list
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -11,9 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Awesome generator
-        uses: simonecorsi/mawesome@v2
+        uses: simonecorsi/mawesome@latest
         with:
-          api-token: ${{ secrets.ACCESS_TOKEN }}
+          api-token: ${{ secrets.API_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
           github-name: ${{ github.repository_owner }}
           template-path: "/template/README.ejs"
+          output-filename: README.md
