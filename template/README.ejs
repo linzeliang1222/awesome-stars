@@ -3,7 +3,7 @@
 # awesome-stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4?logo=github)](https://github.com/eryajf)
+[![Auth](https://img.shields.io/badge/Auth-linzeliang1222-D3E3FD?logo=github)](https://github.com/linzeliang1222)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/linzeliang1222/awesome-stars?logo=Undertale)](https://github.com/linzeliang1222/awesome-stars/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/linzeliang1222/awesome-stars.svg)](https://github.com/linzeliang1222/awesome-stars)
 [![GitHub license](https://img.shields.io/github/license/linzeliang1222/awesome-stars)](https://github.com/linzeliang1222/awesome-stars/blob/main/LICENSE)
