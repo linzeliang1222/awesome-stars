@@ -17,7 +17,7 @@ jobs:
         uses: simonecorsi/mawesome@latest
         with:
           api-token: ${{ secrets.API_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
-          github-name: ${{ github.repository_owner }}
-          template-path: "/template/README.ejs"
+          github-email: github-actions[bot]
+          github-name: github-actions[bot]@users.noreply.github.com
+          template-path: template/README.ejs
           output-filename: README.md
