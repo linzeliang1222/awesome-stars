@@ -1,6 +1,6 @@
 <div align="center">
 
-# awesome-stars-eryajf
+# awesome-stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4?logo=github)](https://github.com/eryajf)
