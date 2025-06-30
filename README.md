@@ -1531,7 +1531,7 @@
 
 *   [infinilabs/analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 
-*   [CN-GuoZiyang/MYDB](https://github.com/CN-GuoZiyang/MYDB) - 一个简单的数据库实现
+*   [senshinya/MYDB](https://github.com/senshinya/MYDB) - 一个简单的数据库实现
 
 *   [Junyanzhang/community](https://github.com/Junyanzhang/community) -
 
