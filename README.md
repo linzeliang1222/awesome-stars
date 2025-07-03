@@ -157,7 +157,7 @@
 
 *   [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 
-*   [dr34m-cn/taosync](https://github.com/dr34m-cn/taosync) - TaoSync是一个适用于OpenList v3的自动化同步工具/Sync for OpenList
+*   [dr34m-cn/taosync](https://github.com/dr34m-cn/taosync) - TaoSync是一个适用于OpenList v3+的自动化同步工具/Sync for OpenList/AList
 
 *   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
 
@@ -1249,8 +1249,6 @@
 
 *   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
-
 *   [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 
 *   [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）
@@ -1902,6 +1900,8 @@
 *   [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples) - v2ray-core 的模板们
 
 ## Lua
+
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 
 *   [unixhot/waf](https://github.com/unixhot/waf) - 使用Nginx+Lua实现的WAF（版本v1.0）
 
