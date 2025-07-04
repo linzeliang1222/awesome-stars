@@ -639,8 +639,6 @@
 
 *   [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
 *   [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 
 *   [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
@@ -1627,7 +1625,7 @@
 
 *   [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 
-*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘）。快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；助力你成为一个没有感情的求职机器🤖。完全开源、免费！界面友好，简单易用！基于 Puppeteer、Electron 开发。宝宝不用动，妈妈全自动~求职不内耗，祝你拿到好Offer！
+*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘）。快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；完全开源、免费！界面友好，简单易用！基于 Puppeteer、Electron 开发。让你即刻变身成为一台冇得感情的求职机器🤖，求职不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
@@ -1738,6 +1736,8 @@
 *   [dmego/home.github.io](https://github.com/dmego/home.github.io) - 个人主页
 
 *   [fltenwall/web3-awesome](https://github.com/fltenwall/web3-awesome) - web3百科全书👏🏻 打造 web3 全球第一中文资源
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
