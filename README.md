@@ -245,7 +245,7 @@
 
 *   [kingmo888/rustdesk-api-server](https://github.com/kingmo888/rustdesk-api-server) - 基于Django的RustDesk Api\&Web Server，除了支持api所有功能，还支持web注册、管理、展示等。已支持到最新1.3.1版本。
 
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent
+*   [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - 🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent
 
 *   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 
@@ -291,7 +291,7 @@
 
 *   [zmzimpl/chrome-power-app](https://github.com/zmzimpl/chrome-power-app) - The first open source multi-chrome manager tool.
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails and control subdomains—all on one platform.
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails, file storage and control subdomains—all on one platform.
 
 *   [zaunist/zmail](https://github.com/zaunist/zmail) - ZMAIL-24小时临时邮箱
 
