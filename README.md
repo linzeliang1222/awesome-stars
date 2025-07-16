@@ -709,7 +709,7 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+*   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
