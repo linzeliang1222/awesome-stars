@@ -221,7 +221,7 @@
 
 ## TypeScript
 
-*   [zmh-program/next-whois-ui](https://github.com/zmh-program/next-whois-ui) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features.
+*   [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 
 *   [blinko-space/blinko-snap](https://github.com/blinko-space/blinko-snap) - Blinko's desktop assistance software
 
@@ -239,7 +239,7 @@
 
 *   [zmzimpl/chrome-power-app](https://github.com/zmzimpl/chrome-power-app) - The first open source multi-chrome manager tool.
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails, cloud storage and control subdomains—all on one platform.
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 🌏 Shorten links, manage emails, cloud storage and control subdomains—all on one platform.
 
 *   [zaunist/zmail](https://github.com/zaunist/zmail) - ZMAIL-24小时临时邮箱
 
