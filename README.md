@@ -550,7 +550,7 @@
 
 *   [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
 
-*   [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
 *   [musistudio/llms](https://github.com/musistudio/llms) - A universal LLM API transformation server
 
@@ -690,7 +690,7 @@
 
 *   [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
+*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
 *   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 
