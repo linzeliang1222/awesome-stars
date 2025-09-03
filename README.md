@@ -75,6 +75,8 @@
 
 *   [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) -
 
+*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
+
 *   [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
 
 *   [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -630,8 +632,6 @@
 *   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
 
 *   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，支持Claude Code、Gemini CLI、Codex CLI，支持Claude Console接入。集成OAuth认   证、多账号池切换、自定义API密钥、OpenAI兼容格式、代理支持和智能防封机制。
-
-*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 
 *   [yym68686/Cerebr](https://github.com/yym68686/Cerebr) - Chat with web content by AI. web demo url: https://cerebr.yym68686.top
 
