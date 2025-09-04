@@ -1003,7 +1003,7 @@
 
 *   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 
@@ -1123,7 +1123,7 @@
 
 *   [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 
-*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘）。基于 Puppeteer 开发，基于 Electron 运行。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；让你即刻变身成为一台冇得感情的求职机器🤖，求职不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
+*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun，求职找工作自动化工具（For Boss直聘）。基于 Puppeteer 开发，基于 Electron 运行。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；让你即刻变身成为一台冇得感情的求职机器🤖，求职不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
