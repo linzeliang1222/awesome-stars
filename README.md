@@ -17,6 +17,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
 *   [NSIS](#nsis)
@@ -29,17 +30,16 @@
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Python](#python)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Dart](#dart)
 *   [PHP](#php)
 *   [CoffeeScript](#coffeescript)
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [Java](#java)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Makefile](#makefile)
 *   [CSS](#css)
-*   [C++](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
 *   [Objective-C](#objective-c)
@@ -63,6 +63,58 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## C++
+
+*   [Icinga/icinga2](https://github.com/Icinga/icinga2) - The core of our monitoring platform with a powerful configuration language and REST API.
+
+*   [StrayMeteor3337/WeFriends](https://github.com/StrayMeteor3337/WeFriends) - WeFriends是一个开源、免费、安全的微信好友检测工具，快去看看有没有朋友偷偷删掉或者拉黑你
+
+*   [zbackup/zbackup](https://github.com/zbackup/zbackup) - ZBackup, a versatile deduplicating backup tool
+
+*   [netheril96/securefs](https://github.com/netheril96/securefs) - Filesystem in userspace (FUSE) with transparent authenticated encryption
+
+*   [fcorbelli/zpaqfranz](https://github.com/fcorbelli/zpaqfranz) - Deduplicating archiver with encryption and paranoid-level tests. Swiss army knife for the serious backup and disaster recovery manager. Ransomware neutralizer. Win/Linux/Unix
+
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+
+*   [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
+
+*   [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
+
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+*   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+
+*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
+
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+
+*   [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
+
+*   [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
+
+*   [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
+
+*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
 ## Lua
 
 *   [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
@@ -77,7 +129,7 @@
 
 *   [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -
 
-*   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
+*   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
 
 *   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
@@ -245,7 +297,7 @@
 
 ## JavaScript
 
-*   [loveyyp1314/SimPage](https://github.com/loveyyp1314/SimPage) -
+*   [loveyyp1314/SimPage](https://github.com/loveyyp1314/SimPage) - 一个集成时间问候、天气信息、智能搜索，以及应用与书签快捷入口的现代化导航页
 
 *   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
 
@@ -559,7 +611,7 @@
 
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 
-*   [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI一站式管理插件：集中管理账号、密钥和模型，汇总API，用量监控 | All-in-One AI API Plugin: Centralize accounts, keys, and models. Aggregate APIs, manage keys, and monitor usage in one hub
+*   [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI,  Multi-agent, Multi-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode & more | 🌟 Star if you like it!
 
@@ -795,7 +847,7 @@
 
 *   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment. 可一键部署的Cloudflare AI平台
 
-*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱到 Cloudflare worker ，支持多域名后缀，密码找回。
+*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
 
 *   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
@@ -1707,8 +1759,6 @@
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-
 ## C\#
 
 *   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
@@ -2107,7 +2157,7 @@
 
 *   [No-Chicken/OV-Watch](https://github.com/No-Chicken/OV-Watch) - A powerful Smart Watch based on STM32, FreeRTOS, LVGL.
 
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 
 *   [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 
@@ -2152,56 +2202,6 @@
 *   [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) -
 
 *   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
-
-## C++
-
-*   [StrayMeteor3337/WeFriends](https://github.com/StrayMeteor3337/WeFriends) - WeFriends是一个开源、免费、安全的微信好友检测工具，快去看看有没有朋友偷偷删掉或者拉黑你
-
-*   [zbackup/zbackup](https://github.com/zbackup/zbackup) - ZBackup, a versatile deduplicating backup tool
-
-*   [netheril96/securefs](https://github.com/netheril96/securefs) - Filesystem in userspace (FUSE) with transparent authenticated encryption
-
-*   [fcorbelli/zpaqfranz](https://github.com/fcorbelli/zpaqfranz) - Deduplicating archiver with encryption and paranoid-level tests. Swiss army knife for the serious backup and disaster recovery manager. Ransomware neutralizer. Win/Linux/Unix
-
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-
-*   [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
-
-*   [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-
-*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
-
-*   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
-
-*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
-
-*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-
-*   [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
-
-*   [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
-
-*   [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter) - Utility to convert between various subscription format
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
-
-*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 
 ## Dockerfile
 
@@ -2271,7 +2271,7 @@
 
 *   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
 
-*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
+*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
