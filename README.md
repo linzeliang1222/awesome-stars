@@ -1267,7 +1267,7 @@
 
 *   [Mapleawaa/PVE-Tools-9](https://github.com/Mapleawaa/PVE-Tools-9) - 一个专为PVE9（Debian13）设计的维护、新装、换源的一键脚本。功能包括不限于：功能包括但不限于：更换清华镜像源、移除订阅弹窗、合并 local 与 local-lvm、删除 Swap、系统更新、查看系统信息、硬件直通、CPU 电源模式、温度监控、Ceph 源配置、Ceph 卸载及内核管理 | A one-click script designed for maintenance, installation, and source replacement specifically for PVE9 (Debian13).
 
-*   [kekylin/debnas](https://github.com/kekylin/debnas) - 一个将Debian系统快速配置成准NAS系统的脚本。
+*   [kekylin/debnas](https://github.com/kekylin/debnas) - 一个将Debian快速配置成准NAS系统的脚本。
 
 *   [myysophia/codex-config](https://github.com/myysophia/codex-config) - codex best practice
 
