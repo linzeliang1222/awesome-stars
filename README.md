@@ -1023,7 +1023,7 @@
 
 *   [Innei/exif-tools](https://github.com/Innei/exif-tools) -  A modern web application for reading, editing, and transferring EXIF metadata between images.
 
-*   [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Afilmory (/əˈfɪlməri/, "uh-FIL-muh-ree") is a term created for personal photography websites, blending Auto Focus (AF), aperture (light control), film (vintage medium), and memory (captured moments).
+*   [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
 
 *   [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 
