@@ -79,6 +79,8 @@
 
 *   [RichardQt/AutoWechatCrawler](https://github.com/RichardQt/AutoWechatCrawler) - 全自动化微信公众号爬虫，支持自动化打开微信爬取
 
+*   [chi111i/BypassAIGC](https://github.com/chi111i/BypassAIGC) - 论文润色，AIGC 降重工具(gptzero等检测网站)
+
 *   [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
 
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
@@ -722,8 +724,6 @@
 *   [lizhipay/mcy-shop](https://github.com/lizhipay/mcy-shop) - 纯原生PHP打造一款极具潜力的个人创业型商城系统，支持虚拟商品，实体商品，任意支付方式！
 
 *   [lozehq/AI-Trading-Bot](https://github.com/lozehq/AI-Trading-Bot) - AI自动决策交易项目【AI Trading Bot】
-
-*   [chi111i/BypassAIGC](https://github.com/chi111i/BypassAIGC) - 论文润色，AIGC 降重工具(gptzero等检测网站)
 
 *   [AnkRoot/AnkTool](https://github.com/AnkRoot/AnkTool) - 脚本，工具...
 
