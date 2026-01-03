@@ -18,6 +18,7 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -68,6 +69,8 @@
 
 ## JavaScript
 
+*   [caigg188/littleLBook](https://github.com/caigg188/littleLBook) - Linux.do论坛的仿小红书主题
+
 *   [cocojojo5213/phonics-app](https://github.com/cocojojo5213/phonics-app) - 真正从基础开始学英语 - 自然拼读练习应用
 
 *   [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management.
@@ -85,8 +88,6 @@
 *   [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - ✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！
 
 *   [debbide/GeoFill](https://github.com/debbide/GeoFill) -
-
-*   [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool) - A lightweight tool for integrating and testing SheerID verification workflows. It simplifies API requests, handles responses, and supports eligibility checks for programs like student.
 
 *   [liuw1535/antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) -
 
@@ -418,7 +419,9 @@
 
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+## PowerShell
+
+*   [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
 
 ## Python
 
@@ -455,6 +458,8 @@
 *   [z-mio/telegram\_bot\_template](https://github.com/z-mio/telegram_bot_template) - 基于 Pyrogram 的 Telegram Bot 模板
 
 *   [z-mio/judgment-bot](https://github.com/z-mio/judgment-bot) - 夹击妹抖 | 简单实用的 Telegram 入群验证 Bot
+
+*   [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool) - A lightweight tool for integrating and testing SheerID verification workflows. It simplifies API requests, handles responses, and supports eligibility checks for programs like student.
 
 *   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
@@ -536,7 +541,7 @@
 
 *   [guojinpeng/cli\_proxy](https://github.com/guojinpeng/cli_proxy) -  本地 claude code 和 codex 代理工具
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，让算法为你服务，用AI理解热点。简单的舆情监控分析 - 多平台热点聚合+支持 RSS 订阅+基于 MCP 的AI分析。智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知。支持Docker部署，支持数据远程云存储，让数据掌握在用户自己的手中⭐ 自媒体小助手
 
 *   [wnma3mz/wechat\_articles\_spider](https://github.com/wnma3mz/wechat_articles_spider) - 微信公众号文章的爬虫
 
@@ -1300,8 +1305,6 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
 ## Go
 
 *   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1944,7 +1947,7 @@
 
 ## Shell
 
-*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
+*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套增强型后端和自动化域名规则提交机器人。
 
 *   [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
 
