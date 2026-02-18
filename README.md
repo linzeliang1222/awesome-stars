@@ -527,8 +527,6 @@
 
 *   [ddcat666/share](https://github.com/ddcat666/share) - AI股市竞技场
 
-*   [haiyewei/GoofishCredentialsBot](https://github.com/haiyewei/GoofishCredentialsBot) - 闲鱼卡密机器人 - 自动回复、自动发货、订单管理、多账号支持
-
 *   [Laliet/CC-Switch-Web](https://github.com/Laliet/CC-Switch-Web) - A more secure, stable, and powerful web-based version of CC-Switch that works seamlessly in cloud development/serverless environments. It bijectively maps all features of the original version, resolving the  issue where the visual CC-Switch could not be used in cloud development scenarios.
 
 *   [atopos31/llmio](https://github.com/atopos31/llmio) - LLM API load-balancing gateway. LLM API 负载均衡网关.
@@ -620,8 +618,6 @@
 *   [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) - Gorgeous Claude Code Extend for VS Code.
 
 *   [manfromexistence/ui](https://github.com/manfromexistence/ui) - Beautifully crafted, accessible, and customizable components to accelerate your development. Open Source.
-
-*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 
 *   [ai-tmarks/tmarks](https://github.com/ai-tmarks/tmarks) -
 
@@ -1500,6 +1496,8 @@
 *   [geekeren/Magpie-LuckyDraw](https://github.com/geekeren/Magpie-LuckyDraw) - 🏅A fancy lucky-draw tool supporting multiple platforms💻(Mac/Linux/Windows/Web/Docker)
 
 *   [vitozyf/lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
+
+*   [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 
 ## miscellaneous
 
@@ -2730,6 +2728,8 @@
 *   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
 *   [lanyeeee/jmcomic-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
+
+*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 
 *   [byebye-code/byebyecode](https://github.com/byebye-code/byebyecode) - 88code的Claude增强statusline，基于CCometixLine开发
 
