@@ -103,7 +103,7 @@
 
 *   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 
-*   [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+*   [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 
 *   [xLmiler/test\_band](https://github.com/xLmiler/test_band) -
 
@@ -751,7 +751,7 @@
 
 *   [zsio/claude-code-hub](https://github.com/zsio/claude-code-hub) - 一个现代化的 Claude Code API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 
-*   [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
+*   [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
 
 *   [black-fruit/SigmaDev](https://github.com/black-fruit/SigmaDev) - 🚀 SigmaDev | A new generation of vibe coding VSCode extension, the lightest plug-in of all AI extension
 
@@ -761,7 +761,7 @@
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
-*   [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) -  JSON-driven multi-agent development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution
+*   [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) -  JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
@@ -2113,7 +2113,7 @@
 
 *   [devSlow/aigc](https://github.com/devSlow/aigc) -
 
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 
 *   [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
 
@@ -2273,7 +2273,7 @@
 
 *   [XxxXTeam/business2api](https://github.com/XxxXTeam/business2api) - OpenAI/Gemini 兼容的 Gemini Business API 代理服务
 
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 
 *   [chun1617/Kir-Manager](https://github.com/chun1617/Kir-Manager) -
 
@@ -2631,7 +2631,7 @@
 
 *   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 
 *   [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
 
