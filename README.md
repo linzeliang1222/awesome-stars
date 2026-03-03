@@ -139,7 +139,7 @@
 
 *   [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
 
-*   [Dreamy-rain/gemini-business2api](https://github.com/Dreamy-rain/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成、视频生成
+*   [Dreamy-rain/gemini-business2api](https://github.com/Dreamy-rain/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and multimodal capabilities (image/video generation, file parsing) | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡及多模态能力（图像生成、视频生成、解析文件）
 
 *   [superboyyy/xianyu\_spider](https://github.com/superboyyy/xianyu_spider) - 闲鱼爬虫，基于闲鱼网页端开发，使用 FastAPI 构建的闲鱼商品搜索接口，支持异步并发请求和自动化数据去重存储。
 
@@ -2373,7 +2373,7 @@
 
 *   [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api) -
 
-*   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+*   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 
 *   [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.
 
