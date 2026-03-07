@@ -143,7 +143,7 @@
 
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 
 *   [1Beyond1/PickPic](https://github.com/1Beyond1/PickPic) - 基于液态玻璃美学的沉浸式相册整理工具，让清理内存变得解压。
 
@@ -417,7 +417,7 @@
 
 *   [taylorren/hangman-retro](https://github.com/taylorren/hangman-retro) - A hangman game in retro style
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 
 *   [FatDoge/receipt-generator](https://github.com/FatDoge/receipt-generator) -
 
@@ -673,7 +673,7 @@
 
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
 
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
@@ -1183,7 +1183,7 @@
 
 *   [Tansuo2021/gemini-3-pro-image-preview](https://github.com/Tansuo2021/gemini-3-pro-image-preview) - Gemini 3 Pro - AI 绘图工作台 (Web Client)
 
-*   [caigg188/LDStatusPro](https://github.com/caigg188/LDStatusPro) - 一款功能强大的 Linux.do 社区增强工具，让你全面掌握信任级别进度和阅读习惯
+*   [caigg188/LDStatusPro](https://github.com/caigg188/LDStatusPro) - 一款功能强大的 Linux.do 社区增强工具以及相关综合服务开源项目
 
 *   [moistrr/TGbot](https://github.com/moistrr/TGbot) -  \* Telegram 双向机器人 Cloudflare Worker  \* 实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复
 
