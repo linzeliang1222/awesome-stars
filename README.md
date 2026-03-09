@@ -2075,7 +2075,7 @@
 
 *   [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
 
-*   [cubezhao/augment-token-mng](https://github.com/cubezhao/augment-token-mng) - 一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。
+*   [cubezhao/augment-token-mng](https://github.com/cubezhao/augment-token-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅与邮箱管理。
 
 *   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
 
@@ -2669,7 +2669,7 @@
 
 *   [EvanTop/EvanMi](https://github.com/EvanTop/EvanMi) - 一个极简且精致的域名表/导航页
 
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv表格文件，保存文章内图片、视频、音频文件
 
 *   [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
 
@@ -3071,7 +3071,7 @@
 
 ## Objective-C
 
-*   [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影。
+*   [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix观影平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影。
 
 *   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 
