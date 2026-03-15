@@ -129,7 +129,7 @@
 
 *   [ddcat666/share](https://github.com/ddcat666/share) - AI股市竞技场
 
-*   [Laliet/CC-Switch-Web](https://github.com/Laliet/CC-Switch-Web) - A more secure, stable, and powerful web-based version of CC-Switch that works seamlessly in cloud development/serverless environments. It bijectively maps all features of the original version, resolving the  issue where the visual CC-Switch could not be used in cloud development scenarios.
+*   [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
 
 *   [atopos31/llmio](https://github.com/atopos31/llmio) - LLM API load-balancing gateway. LLM API 负载均衡网关.
 
@@ -1157,7 +1157,7 @@
 
 *   [WhiteBite/kiro-manager-wb](https://github.com/WhiteBite/kiro-manager-wb) -
 
-*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统搭建 domain mail tempmail
+*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
 
 *   [Jackwwj619/PastePDF](https://github.com/Jackwwj619/PastePDF) - Stitch PDF just like paste images; 一个可以自定义拼接 PDF 的工具
 
@@ -1739,7 +1739,7 @@
 
 *   [Haleclipse/ipatoolUI](https://github.com/Haleclipse/ipatoolUI) - A macOS GUI for ipatool
 
-*   [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
+*   [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 
 *   [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai) - A SwiftUI-based Chat App for LLMs on iOS
 
@@ -2369,7 +2369,7 @@
 
 *   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
 
-*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级发布平台。
+*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 
 *   [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api) -
 
