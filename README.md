@@ -137,7 +137,7 @@
 
 *   [Cloxl/CursorPool\_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 
-*   [ushaio/mo-gallery-web](https://github.com/ushaio/mo-gallery-web) - 一个现代化的图片画廊应用，前后端集成，支持多种部署方式和存储后端。现在bug待优化较多，希望大家多提issue🙏
+*   [ushaio/mo-gallery-web](https://github.com/ushaio/mo-gallery-web) - 一个现代化的图片画廊应用，前后端集成，支持多种部署方式和存储后端。
 
 *   [zhalice2011/ProxyLLM](https://github.com/zhalice2011/ProxyLLM) - ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)
 
@@ -783,7 +783,7 @@
 
 *   [haddock-development/claude-reflect-system](https://github.com/haddock-development/claude-reflect-system) - Continual Learning & Self-improving skills system for Claude Code - learn from corrections, never repeat mistakes
 
-*   [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+*   [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
 *   [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
 
@@ -875,7 +875,7 @@
 
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
-*   [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+*   [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 
 *   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 
@@ -3095,7 +3095,7 @@
 
 ## Markdown
 
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Batchfile
 
