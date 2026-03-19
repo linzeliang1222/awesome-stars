@@ -17,6 +17,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -44,7 +45,6 @@
 *   [Lua](#lua)
 *   [NSIS](#nsis)
 *   [Perl](#perl)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [CoffeeScript](#coffeescript)
 *   [Makefile](#makefile)
 *   [Svelte](#svelte)
@@ -68,6 +68,16 @@
 *   [Blade](#blade)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Jupyter Notebook
+
+*   [charliedream1/ai\_quant\_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
+
+*   [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+*   [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
+
+*   [zpw1995/aotodata](https://github.com/zpw1995/aotodata) - 朱小五写文章涉及到的数据分析，爬虫，源数据
 
 ## TypeScript
 
@@ -747,7 +757,7 @@
 
 *   [Jielumoon/Rainyun-Qiandao](https://github.com/Jielumoon/Rainyun-Qiandao) - 三改版雨云签到工具的docker版
 
-*   [ztx888/open-webui](https://github.com/ztx888/open-webui) - 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计
+*   [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) - 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计
 
 *   [linlee996/gemini-business](https://github.com/linlee996/gemini-business) - 集成了 google business 批量注册、Token 刷新、2API 的服务
 
@@ -1197,7 +1207,7 @@
 
 *   [AnkRoot/AnkTool](https://github.com/AnkRoot/AnkTool) - 脚本，工具...
 
-*   [EchoHS/GeekezBrowser](https://github.com/EchoHS/GeekezBrowser) - A professional anti-detect browser built on Electron and Puppeteer, integrated with the powerful Xray-core.  一款基于xray-core代理的开源指纹浏览器
+*   [EchoHS/GeekezBrowser](https://github.com/EchoHS/GeekezBrowser) - A professional anti-detect browser built on Electron and Puppeteer, integrated with the powerful Xray-core.  一款基于xray-core代理的指纹浏览器
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
@@ -1495,8 +1505,6 @@
 
 *   [geekeren/Magpie-LuckyDraw](https://github.com/geekeren/Magpie-LuckyDraw) - 🏅A fancy lucky-draw tool supporting multiple platforms💻(Mac/Linux/Windows/Web/Docker)
 
-*   [vitozyf/lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
-
 ## miscellaneous
 
 *   [blessonism/github-explorer-skill](https://github.com/blessonism/github-explorer-skill) - OpenClaw Agent Skill — 对任意 GitHub 项目进行多源深度分析，输出结构化研判报告
@@ -1552,8 +1560,6 @@
 *   [Calcium-Ion/new-api-horizon](https://github.com/Calcium-Ion/new-api-horizon) - 特性版 - 基于New API开发的增强版本，专注于高性能
 
 *   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
-
-*   [yangfeng20/ai-job](https://github.com/yangfeng20/ai-job) - 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7\*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
 
 *   [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 
@@ -1814,6 +1820,8 @@
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
 
 *   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)
+
+*   [yangfeng20/ai-job](https://github.com/yangfeng20/ai-job) - 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7\*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
 
 *   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 
@@ -2079,7 +2087,7 @@
 
 *   [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
 
-*   [cubezhao/augment-token-mng](https://github.com/cubezhao/augment-token-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅与邮箱管理。
+*   [cubezhao/ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex/API, Claude Code and API), plus subscriptions, bookmarks, and email management.
 
 *   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
 
@@ -2201,7 +2209,7 @@
 
 *   [16188/itcry-woo-pay](https://github.com/16188/itcry-woo-pay) - 一个为WooCommerce重构和修复的免签约支付插件，支持码支付(Codepay)和易支付(Easypay)。网站：https://itcry.com
 
-*   [JanePHPDev/ZuzShortURL](https://github.com/JanePHPDev/ZuzShortURL) - A next-generation short-link SaaS solution built on PHP+PostgreSQL and tailored for entrepreneurial teams, e-commerce platforms, and small and medium-sized enterprises
+*   [MornZe/ZuzShortURL](https://github.com/MornZe/ZuzShortURL) - A next-generation short-link SaaS solution built on PHP+PostgreSQL and tailored for entrepreneurial teams, e-commerce platforms, and small and medium-sized enterprises
 
 *   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
 
@@ -3040,14 +3048,6 @@
 *   [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 
 *   [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
-
-## Jupyter Notebook
-
-*   [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-*   [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
-
-*   [zpw1995/aotodata](https://github.com/zpw1995/aotodata) - 朱小五写文章涉及到的数据分析，爬虫，源数据
 
 ## CoffeeScript
 
