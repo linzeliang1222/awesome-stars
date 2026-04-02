@@ -982,7 +982,7 @@
 
 *   [Lavender3533/kiro2Api](https://github.com/Lavender3533/kiro2Api) -
 
-*   [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
+*   [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 
 *   [WhiteBite/kiro-manager-wb](https://github.com/WhiteBite/kiro-manager-wb) -
 
@@ -1032,7 +1032,7 @@
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  【29元500次sonnet，下方wx扫码联系】
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly 【Ucloud 6.9元 Coding Plan: http://compshare.cn/?ytag=GPU\_YY\_JL\_git\_zenfeed】
 
 *   [samni728/edgetts-cloudflare-workers-webui](https://github.com/samni728/edgetts-cloudflare-workers-webui) - 这是一个部署在 Cloudflare Workers 上的高性能文本转语音（TTS）代理服务。它巧妙地将微软 Edge 强大且自然的语音合成服务，封装成了一个兼容 OpenAI API 格式的接口。这使得开发者可以无缝地将各种现有应用对接到这个免费、高质量的 TTS 服务上。
 
@@ -1324,8 +1324,6 @@
 
 *   [t8y2/unihub](https://github.com/t8y2/unihub) - 🚀 UniHub - 现代化的跨平台工具集应用，支持强大的插件系统 | Modern cross-platform toolkit with powerful plugin system
 
-*   [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
-
 *   [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
 
 *   [cubezhao/ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex/API, Claude Code and API), plus subscriptions, bookmarks, and email management.
@@ -1343,6 +1341,8 @@
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
 *   [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) - PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新
+
+*   [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) - Gorgeous Claude Code Extend for VS Code.
 
 *   [anghunk/UserScript](https://github.com/anghunk/UserScript) - 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
 
@@ -1700,6 +1700,8 @@
 
 *   [JoJoJotarou/LDOH](https://github.com/JoJoJotarou/LDOH) - LD OPEN HUB
 
+*   [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
+
 *   [Cloxl/CursorPool\_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 
 *   [ushaio/mo-gallery-web](https://github.com/ushaio/mo-gallery-web) - 一个现代化的图片画廊应用，前后端集成，支持多种部署方式和存储后端。
@@ -1785,8 +1787,6 @@
 *   [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储和完整的 CI/CD 流程。
 
 *   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
-
-*   [Haleclipse/Claudix](https://github.com/Haleclipse/Claudix) - Gorgeous Claude Code Extend for VS Code.
 
 *   [manfromexistence/ui](https://github.com/manfromexistence/ui) - Beautifully crafted, accessible, and customizable components to accelerate your development. Open Source.
 
