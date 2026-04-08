@@ -1516,7 +1516,7 @@
 
 *   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
 *   [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
 
@@ -2128,7 +2128,7 @@
 
 *   [myysophia/codex-config](https://github.com/myysophia/codex-config) - codex best practice
 
-*   [TokenRollAI/llmdoc](https://github.com/TokenRollAI/llmdoc) - (WIP) toeknroll cc-plugin
+*   [TokenRollAI/llmdoc](https://github.com/TokenRollAI/llmdoc) - TokenRoll LLMDoc for Coding Agent
 
 *   [LiJunYi2/WeChat-Split](https://github.com/LiJunYi2/WeChat-Split) - Mac 端微信4.0 以上版本多开
 
