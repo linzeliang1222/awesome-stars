@@ -72,6 +72,8 @@
 
 ## TypeScript
 
+*   [yaotutu/open-health-agent](https://github.com/yaotutu/open-health-agent) - 开源 AI 健康顾问 Agent —   统一收集、永久保存、智能分析你的健康数据
+
 *   [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying
 
 *   [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - \[NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
@@ -804,8 +806,6 @@
 
 *   [TullyMonster/exa-pool-mcp](https://github.com/TullyMonster/exa-pool-mcp) - A lightweight MCP server that encapsulates the Exa Pool API as a toolkit for AI assistants to call.
 
-*   [chengtx809/ExaFree](https://github.com/chengtx809/ExaFree) - 一站式Exa注册机+号池轮询+API服务反代+多用户管理
-
 *   [ccpopy/gemini-chat](https://github.com/ccpopy/gemini-chat) - web2api
 
 *   [xxoo-qx/business-gemini](https://github.com/xxoo-qx/business-gemini) -
@@ -991,6 +991,8 @@
 *   [coffeegrind123/gemini-for-claude-code](https://github.com/coffeegrind123/gemini-for-claude-code) - This python program allows you to use Claude Code with Google's Gemini models.
 
 *   [sylearn/AICode](https://github.com/sylearn/AICode) - A comprehensive collection of AI-related utility scripts designed to simplify AI development workflows and automate common tasks.
+
+*   [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 
 *   [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 
@@ -1576,6 +1578,8 @@
 
 *   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 
+*   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
+
 *   [byebye-code/byebyecode](https://github.com/byebye-code/byebyecode) - 88code的Claude增强statusline，基于CCometixLine开发
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
@@ -2110,7 +2114,7 @@
 
 *   [FakeOAI/tokens](https://github.com/FakeOAI/tokens) - 商用逆向Tokens管理平台，调度管理号池将各大国外AI平台的模型转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用
 
-*   [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+*   [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
 
 *   [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, track medical records, and access professional multidisciplinary consultation analysis—making health management smarter and more accessible
 
@@ -2337,8 +2341,6 @@
 *   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
 
 *   [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) -
-
-*   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
 
 *   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
@@ -2760,8 +2762,6 @@
 
 *   [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
 
-*   [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q\&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
-
 ## Rich Text Format
 
 *   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
@@ -3154,7 +3154,7 @@
 
 ## Elixir
 
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+*   [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## Haskell
 
