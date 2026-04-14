@@ -72,6 +72,8 @@
 
 ## TypeScript
 
+*   [iptag/jimeng-api](https://github.com/iptag/jimeng-api) - Reverse-engineered the official API for Jimeng/Dreamina’s text-to-image and image-to-image features. Drew inspiration from several experts’ projects and made some tweaks, which significantly improved stability.
+
 *   [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 
 *   [yaotutu/open-health-agent](https://github.com/yaotutu/open-health-agent) - 开源 AI 健康顾问 Agent —   统一收集、永久保存、智能分析你的健康数据
@@ -1450,7 +1452,7 @@
 
 *   [rainbend/frp-notify](https://github.com/rainbend/frp-notify) - 一个专注于消息通知的 frp server manager plugin 实现，让你对进入 frps 的连接了如指掌。
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 
@@ -2757,8 +2759,6 @@
 *   [Junyanzhang/community](https://github.com/Junyanzhang/community) -
 
 *   [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
-
-*   [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q\&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
 
 ## Rich Text Format
 
