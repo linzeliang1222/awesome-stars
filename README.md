@@ -799,7 +799,7 @@
 
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 
-*   [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 一站式管理 New API 兼容中转站账号：余额/用量看板、自动签到、密钥一键导出到常用应用、网页内 API 可用性测试、渠道与模型同步/重定向 | New‑API relay manager: balance/usage, auto check‑in, one‑click key export to popular clients, in‑page API checks, channel/model sync & redirect
+*   [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
@@ -855,7 +855,7 @@
 
 *   [taylorren/hangman-retro](https://github.com/taylorren/hangman-retro) - A hangman game in retro style
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
 *   [FatDoge/receipt-generator](https://github.com/FatDoge/receipt-generator) -
 
@@ -1905,7 +1905,7 @@
 
 *   [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
 
-*   [golutra/golutra](https://github.com/golutra/golutra) -
+*   [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 *   [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) - 为 Claude Code、Codex、Gemini CLI 打造的效率工具，集智能网关与配置管理于一体
 
