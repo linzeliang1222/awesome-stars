@@ -221,6 +221,8 @@
 
 *   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 
+*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) -
+
 *   [PlevanTem/Trade-Accumulated-Gold-CN](https://github.com/PlevanTem/Trade-Accumulated-Gold-CN) - 中国积存金 | 京东积存金 短线交易信号捕捉和点位分析 SKILL
 
 *   [AnacondaKC/Aniu](https://github.com/AnacondaKC/Aniu) - 利用东方财富妙想接口的AI模拟炒股平台
@@ -634,8 +636,6 @@
 ## TypeScript
 
 *   [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
-
-*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) -
 
 *   [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool) - 有啥问题抖音私我，我后面攒起来更新
 
