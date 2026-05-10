@@ -201,7 +201,7 @@
 
 *   [escapeWu/perplexity-ai](https://github.com/escapeWu/perplexity-ai) - A third-party Perplexity MCP/REST API implementation that leverages Pro accounts to provide unlimited quota for reasoning and deep search capabilities. Includes multi-account support.
 
-*   [bfly123/claude\_codex\_bridge](https://github.com/bfly123/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
+*   [SeemSeam/claude\_codex\_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
 
 *   [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
 
@@ -591,7 +591,7 @@
 
 *   [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
 
-*   [atopos31/llmio](https://github.com/atopos31/llmio) - LLM API load-balancing gateway. LLM API 负载均衡网关.
+*   [atopos31/llmio](https://github.com/atopos31/llmio) - Unified LLM gateway with weighted load balancing, observability & cost tracking. 统一的 LLM 网关，提供权重负载均衡、可观测性与费用追踪。
 
 *   [JoJoJotarou/LDOH](https://github.com/JoJoJotarou/LDOH) - LD OPEN HUB
 
@@ -1467,6 +1467,8 @@
 
 *   [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+
 *   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -2251,7 +2253,7 @@
 
 *   [buyi06/tgstate-rust](https://github.com/buyi06/tgstate-rust) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
 
-*   [limecloud/lime](https://github.com/limecloud/lime) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
+*   [limecloud/lime](https://github.com/limecloud/lime) -   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
 
 *   [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) - Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
 
@@ -2691,7 +2693,7 @@
 
 *   [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, track medical records, and access professional multidisciplinary consultation analysis—making health management smarter and more accessible
 
-*   [bfly123/claude\_code\_autoflow](https://github.com/bfly123/claude_code_autoflow) -
+*   [SeemSeam/claude\_code\_autoflow](https://github.com/SeemSeam/claude_code_autoflow) -
 
 *   [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
 
@@ -2984,8 +2986,6 @@
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 
 *   [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 
