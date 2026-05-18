@@ -17,6 +17,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -32,7 +33,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
 *   [Rich Text Format](#rich-text-format)
-*   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [PowerShell](#powershell)
 *   [TeX](#tex)
@@ -69,6 +69,72 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## HTML
+
+*   [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt) - 利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求
+
+*   [jiangnan1224/pdf-toc-editor](https://github.com/jiangnan1224/pdf-toc-editor) - pdf目录生成
+
+*   [ddcat666/business-gemini-pool](https://github.com/ddcat666/business-gemini-pool) - Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）
+
+*   [OxOOo/ProxyPoolWithUI](https://github.com/OxOOo/ProxyPoolWithUI) - Python编写的HTTP代理池，集成WEB管理界面，无外部数据库依赖，可直接运行，兼容Windows,Linux和macOS。Free Proxy Pool with Web UI on Windows, Linux, and macOS.
+
+*   [hydy100/MisaCard-Manager](https://github.com/hydy100/MisaCard-Manager) - MisaCard卡片管理系统
+
+*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
+
+*   [Laccoliths-pro/MisaCard-Manager](https://github.com/Laccoliths-pro/MisaCard-Manager) - MisaCard卡片管理系统
+
+*   [rockyflux/Bookmarks](https://github.com/rockyflux/Bookmarks) - 书签大全 |  按主题汇总高质量网站、工具与学习资料，帮助你在不同场景下快速起步、减少检索成本，并以可分享的 HTML/Markdown 形式沉淀到知识库中。
+
+*   [AhYi8/tech-nav](https://github.com/AhYi8/tech-nav) - 一款简单的暗黑科技风格的导航网站，全静态，无任何框架，存HTML、CSS、JS
+
+*   [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - A new AI diary application that automatically compiles random words into a diary
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [xkatld/zjmf-lxd-server](https://github.com/xkatld/zjmf-lxd-server) - 为“魔方财务”系统开发的LXD/LXC服务器对接插件，允许通过“魔方财务”自动化开通、管理和销售LXD/LXC容器产品。
+
+*   [EvanTop/EvanMi](https://github.com/EvanTop/EvanMi) - 一个极简且精致的域名表/导航页（最新版V9支持后台管理）
+
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用
+
+*   [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
+
+*   [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码
+
+*   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
+
+*   [wizardcode/world-area](https://github.com/wizardcode/world-area) - 提供sql，csv，json格式的世界位置信息数据下载，包含洲，国家，省份（州），区（市），县，美国又分了几大区域，提供中文，英文，编码等相关信息，各级关系链式存储。
+
+*   [VoxLink-org/cueflow](https://github.com/VoxLink-org/cueflow) - CueFlow Realtime AI Assistant
+
+*   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
+
+*   [lbjlaq/MeteorMail](https://github.com/lbjlaq/MeteorMail) - MeteorMail - 一款基于Node.js的自托管临时邮箱服务，提供即时创建、即用即走的临时邮箱，保护隐私，避免垃圾邮件，支持验证码接收。Self-hosted temporary email service based on Node.js for privacy protection.
+
+*   [fltenwall/web3-awesome](https://github.com/fltenwall/web3-awesome) - web3百科全书👏🏻 打造 web3 全球第一中文资源
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
+
+*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
+
+*   [zsy0216/Community](https://github.com/zsy0216/Community) - 牛客网 牛客Java高级工程师 - 高薪求职项目课vol.4
+
+*   [WangEn/WeAdmin](https://github.com/WangEn/WeAdmin) - 基于Layui的后台管理系统前端模板 http://lovetime.gitee.io/weadmin/
+
+*   [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
+
+*   [yanglr/cnblogs-theme-xSimple](https://github.com/yanglr/cnblogs-theme-xSimple) - 博客园主题-eXtremely Simple(极简)
+
 ## TypeScript
 
 *   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
@@ -78,8 +144,6 @@
 *   [CookSleep/gpt\_image\_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 
 *   [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
-
-*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
 *   [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool) - 有啥问题抖音私我，我后面攒起来更新
 
@@ -207,7 +271,7 @@
 
 *   [wttwins/wrong-notebook](https://github.com/wttwins/wrong-notebook) - 一个基于AI的学生错题本
 
-*   [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
+*   [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 
 *   [iluobei/miaomiaowu](https://github.com/iluobei/miaomiaowu) - Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点、聚合流量、聚合订阅等功能。
 
@@ -249,7 +313,7 @@
 
 *   [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储和完整的 CI/CD 流程。
 
-*   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
+*   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI Powered Email Aggregation  Client | AI识别的邮件聚合客户端
 
 *   [manfromexistence/ui](https://github.com/manfromexistence/ui) - Beautifully crafted, accessible, and customizable components to accelerate your development. Open Source.
 
@@ -721,7 +785,7 @@
 
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
-*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
@@ -882,6 +946,8 @@
 *   [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 
 *   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+
+*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
 *   [PlevanTem/Trade-Accumulated-Gold-CN](https://github.com/PlevanTem/Trade-Accumulated-Gold-CN) - 中国积存金 | 京东积存金 短线交易信号捕捉和点位分析 SKILL
 
@@ -1389,7 +1455,7 @@
 
 *   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
 *   [Luyongcong-0711/xiaohongshu\_auto\_tools](https://github.com/Luyongcong-0711/xiaohongshu_auto_tools) -
 
@@ -2079,7 +2145,7 @@
 
 *   [Octane0411/open-vibe-island](https://github.com/Octane0411/open-vibe-island) - The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm. 开源的vibe-island替代品，为重度code agent用户设计，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm
 
-*   [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
+*   [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
 
 *   [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
@@ -2297,7 +2363,7 @@
 
 *   [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
 
-*   [lilishop/lilishop](https://github.com/lilishop/lilishop) - 开源商城 JAVA商城 多语言商城 分销商城  uniapp商城 小程序商城  SAAS商城
+*   [lilishop/lilishop](https://github.com/lilishop/lilishop) - Java 开源商城系统，基于 Spring Boot / Spring Cloud / Vue / Uniapp 的 B2B2C 多商户商城源码，支持小程序商城、微服务、分销、直播、秒杀、Docker 私有化部署。
 
 *   [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
 
@@ -2538,8 +2604,6 @@
 *   [wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) - 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
 
 *   [TommyZihao/ZihaoTutorialOfRaspberryPi](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi) - 子豪兄的零基础树莓派教程，代码存放地及更新勘误
-
-*   [daquexian/the-answer-of-Data-Structures-and-Algorithm-Analysis-in-C-in-chinese](https://github.com/daquexian/the-answer-of-Data-Structures-and-Algorithm-Analysis-in-C-in-chinese) - 《数据结构与算法分析：C语言描述》答案中文版
 
 ## CSS
 
@@ -2944,70 +3008,6 @@
 ## Rich Text Format
 
 *   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
-
-## HTML
-
-*   [jiangnan1224/pdf-toc-editor](https://github.com/jiangnan1224/pdf-toc-editor) - pdf目录生成
-
-*   [ddcat666/business-gemini-pool](https://github.com/ddcat666/business-gemini-pool) - Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）
-
-*   [OxOOo/ProxyPoolWithUI](https://github.com/OxOOo/ProxyPoolWithUI) - Python编写的HTTP代理池，集成WEB管理界面，无外部数据库依赖，可直接运行，兼容Windows,Linux和macOS。Free Proxy Pool with Web UI on Windows, Linux, and macOS.
-
-*   [hydy100/MisaCard-Manager](https://github.com/hydy100/MisaCard-Manager) - MisaCard卡片管理系统
-
-*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
-
-*   [Laccoliths-pro/MisaCard-Manager](https://github.com/Laccoliths-pro/MisaCard-Manager) - MisaCard卡片管理系统
-
-*   [rockyflux/Bookmarks](https://github.com/rockyflux/Bookmarks) - 书签大全 |  按主题汇总高质量网站、工具与学习资料，帮助你在不同场景下快速起步、减少检索成本，并以可分享的 HTML/Markdown 形式沉淀到知识库中。
-
-*   [AhYi8/tech-nav](https://github.com/AhYi8/tech-nav) - 一款简单的暗黑科技风格的导航网站，全静态，无任何框架，存HTML、CSS、JS
-
-*   [zhuchenyu2008/AI-Diary](https://github.com/zhuchenyu2008/AI-Diary) - A new AI diary application that automatically compiles random words into a diary
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [xkatld/zjmf-lxd-server](https://github.com/xkatld/zjmf-lxd-server) - 为“魔方财务”系统开发的LXD/LXC服务器对接插件，允许通过“魔方财务”自动化开通、管理和销售LXD/LXC容器产品。
-
-*   [EvanTop/EvanMi](https://github.com/EvanTop/EvanMi) - 一个极简且精致的域名表/导航页（最新版V9支持后台管理）
-
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用
-
-*   [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
-
-*   [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码
-
-*   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
-
-*   [wizardcode/world-area](https://github.com/wizardcode/world-area) - 提供sql，csv，json格式的世界位置信息数据下载，包含洲，国家，省份（州），区（市），县，美国又分了几大区域，提供中文，英文，编码等相关信息，各级关系链式存储。
-
-*   [VoxLink-org/cueflow](https://github.com/VoxLink-org/cueflow) - CueFlow Realtime AI Assistant
-
-*   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
-
-*   [lbjlaq/MeteorMail](https://github.com/lbjlaq/MeteorMail) - MeteorMail - 一款基于Node.js的自托管临时邮箱服务，提供即时创建、即用即走的临时邮箱，保护隐私，避免垃圾邮件，支持验证码接收。Self-hosted temporary email service based on Node.js for privacy protection.
-
-*   [fltenwall/web3-awesome](https://github.com/fltenwall/web3-awesome) - web3百科全书👏🏻 打造 web3 全球第一中文资源
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
-
-*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
-
-*   [zsy0216/Community](https://github.com/zsy0216/Community) - 牛客网 牛客Java高级工程师 - 高薪求职项目课vol.4
-
-*   [WangEn/WeAdmin](https://github.com/WangEn/WeAdmin) - 基于Layui的后台管理系统前端模板 http://lovetime.gitee.io/weadmin/
-
-*   [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
-
-*   [yanglr/cnblogs-theme-xSimple](https://github.com/yanglr/cnblogs-theme-xSimple) - 博客园主题-eXtremely Simple(极简)
 
 ## Kotlin
 
