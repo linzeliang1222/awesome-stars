@@ -1283,6 +1283,8 @@
 
 *   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+
 *   [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
@@ -1701,7 +1703,7 @@
 
 *   [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
 
-*   [nianzs/sub2api](https://github.com/nianzs/sub2api) - 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例
+*   [nianzs/sub2api](https://github.com/nianzs/sub2api) - 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例,已支持 opus4.8 感谢@gogoing1024
 
 *   [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
 
@@ -2001,7 +2003,7 @@
 
 *   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 
-*   [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+*   [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
@@ -2127,7 +2129,7 @@
 
 *   [WhiteBite/kiro-manager-wb](https://github.com/WhiteBite/kiro-manager-wb) -
 
-*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
+*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统  支持API 调用 支持多渠道发件 支持用户管理 domain mail tempmail
 
 *   [Jackwwj619/PastePDF](https://github.com/Jackwwj619/PastePDF) - Stitch PDF just like paste images; 一个可以自定义拼接 PDF 的工具
 
@@ -2392,8 +2394,6 @@
 *   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 *   [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
-
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
@@ -2691,7 +2691,7 @@
 
 *   [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, etc. Through the software can realize the management of multiple data sources, the data under the source of various operations conversion ...
 
-*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+*   [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 *   [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
 
