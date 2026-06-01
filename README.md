@@ -22,8 +22,8 @@
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -255,7 +255,7 @@
 
 *   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 
-*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
+*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
 *   [PlevanTem/Trade-Accumulated-Gold-CN](https://github.com/PlevanTem/Trade-Accumulated-Gold-CN) - 中国积存金 | 京东积存金 短线交易信号捕捉和点位分析 SKILL
 
@@ -677,8 +677,6 @@
 
 *   [dreamlonglll/mini-term](https://github.com/dreamlonglll/mini-term) - 一个ai 终端管理工具，支持多项目、多终端布局管理
 
-*   [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.
-
 *   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 
 *   [BuluBulugege/Free-BAI](https://github.com/BuluBulugege/Free-BAI) -
@@ -713,7 +711,7 @@
 
 *   [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 
-*   [evepupil/NextDevTpl](https://github.com/evepupil/NextDevTpl) - 一个现代化的 SaaS 全栈开发模板，基于 Next.js 15 构建，包含认证、支付、积分、邮件、存储、工单、API 限流、日志、错误监控等完整的 SaaS 功能模块。
+*   [evepupil/NextDevTpl](https://github.com/evepupil/NextDevTpl) - 一个现代化的 SaaS 全栈开发模板，基于 Next.js 16 构建，包含认证、支付、积分、邮件、存储、工单、API 限流、日志、错误监控等完整的 SaaS 功能模块。
 
 *   [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 
@@ -1403,6 +1401,104 @@
 
 *   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
+## Rust
+
+*   [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.
+
+*   [ZyphrZero/kiro.rs](https://github.com/ZyphrZero/kiro.rs) - A Kiro Client in Rust
+
+*   [M-JYuan/kiro.rs](https://github.com/M-JYuan/kiro.rs) - A Kiro Client in Rust
+
+*   [chaogei/windsurf-account-manager-simple](https://github.com/chaogei/windsurf-account-manager-simple) -
+
+*   [Haleclipse/codex](https://github.com/Haleclipse/codex) - Lightweight coding agent that runs in your terminal
+
+*   [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
+
+*   [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
+
+*   [fawney19/Aether](https://github.com/fawney19/Aether) -
+
+*   [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) - 为 Claude Code、Codex、Gemini CLI 打造的效率工具，集智能网关与配置管理于一体
+
+*   [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
+
+*   [buyi06/tgstate-rust](https://github.com/buyi06/tgstate-rust) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
+
+*   [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) - Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
+
+*   [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
+
+*   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
+
+*   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
+
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+
+*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+*   [lanyeeee/jmcomic-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
+
+*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+
+*   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
+
+*   [byebye-code/byebyecode](https://github.com/byebye-code/byebyecode) - 88code的Claude增强statusline，基于CCometixLine开发
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+
+*   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+
+*   [breakstring/cccs](https://github.com/breakstring/cccs) - Claude Code Configuration Switcher
+
+*   [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [chenqimiao/quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) - 夸克网盘 WebDAV 服务
+
+*   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
+
+*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
+
+*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) / sing-box TUI Client
+
+*   [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+
+*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
 ## miscellaneous
 
 *   [guoguo-tju/agent\_java\_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
@@ -1458,8 +1554,6 @@
 *   [Calcium-Ion/new-api-horizon](https://github.com/Calcium-Ion/new-api-horizon) - 特性版 - 基于New API开发的增强版本，专注于高性能
 
 *   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
-
-*   [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 
 *   [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 
@@ -1602,102 +1696,6 @@
 *   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 
 *   [CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
-
-## Rust
-
-*   [ZyphrZero/kiro.rs](https://github.com/ZyphrZero/kiro.rs) - A Kiro Client in Rust
-
-*   [M-JYuan/kiro.rs](https://github.com/M-JYuan/kiro.rs) - A Kiro Client in Rust
-
-*   [chaogei/windsurf-account-manager-simple](https://github.com/chaogei/windsurf-account-manager-simple) -
-
-*   [Haleclipse/codex](https://github.com/Haleclipse/codex) - Lightweight coding agent that runs in your terminal
-
-*   [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
-
-*   [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
-
-*   [fawney19/Aether](https://github.com/fawney19/Aether) -
-
-*   [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) - 为 Claude Code、Codex、Gemini CLI 打造的效率工具，集智能网关与配置管理于一体
-
-*   [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
-
-*   [buyi06/tgstate-rust](https://github.com/buyi06/tgstate-rust) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
-
-*   [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) - Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
-
-*   [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
-
-*   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
-
-*   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
-
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-
-*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-
-*   [lanyeeee/jmcomic-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
-
-*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-
-*   [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
-
-*   [byebye-code/byebyecode](https://github.com/byebye-code/byebyecode) - 88code的Claude增强statusline，基于CCometixLine开发
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
-
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
-
-*   [breakstring/cccs](https://github.com/breakstring/cccs) - Claude Code Configuration Switcher
-
-*   [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [chenqimiao/quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) - 夸克网盘 WebDAV 服务
-
-*   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
-
-*   [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-
-*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) / sing-box TUI Client
-
-*   [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-
-*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## Go
 
@@ -1894,6 +1892,8 @@
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
 *   [kubackup/kubackup](https://github.com/kubackup/kubackup) - A Simple, Open-Source, and Modern Web UI for Restic.
+
+*   [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 
 *   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
@@ -3279,7 +3279,7 @@
 
 ## Just
 
-*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
+*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - An IP database derived from BGP data analysis, automatically updated daily
 
 ## templ
 
