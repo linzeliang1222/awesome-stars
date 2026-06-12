@@ -350,6 +350,8 @@
 
 *   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 
+*   [alireza0/x-ui](https://github.com/alireza0/x-ui) - xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks & Hysteria)
+
 *   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 
 *   [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
@@ -491,8 +493,6 @@
 *   [uselibrary/memoryCheck](https://github.com/uselibrary/memoryCheck) - Check if VPS's memory is oversold
 
 *   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
-
-*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
 
 *   [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 
@@ -637,6 +637,8 @@
 *   [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
 
 *   [Calcium-Ion/new-api-horizon](https://github.com/Calcium-Ion/new-api-horizon) - 特性版 - 基于New API开发的增强版本，专注于高性能
+
+*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
 
 *   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
 
@@ -1952,8 +1954,6 @@
 
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
 ## Kotlin
 
 *   [GlassHaven/Haven](https://github.com/GlassHaven/Haven) - Free SSH, VNC, RDP & SFTP client for Android
@@ -2369,6 +2369,8 @@
 *   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 
 *   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+*   [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 
 *   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
@@ -2836,8 +2838,6 @@
 
 *   [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
 
-*   [liu-ziting/SilverEra](https://github.com/liu-ziting/SilverEra) - 来看看你的月薪在古代值几两银子？
-
 *   [t8y2/unihub](https://github.com/t8y2/unihub) - 🚀 UniHub - 现代化的跨平台工具集应用，支持强大的插件系统 | Modern cross-platform toolkit with powerful plugin system
 
 *   [cubezhao/ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex/API, Claude Code and API), plus subscriptions, bookmarks, and email management.
@@ -2865,8 +2865,6 @@
 *   [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
 
 *   [ponysb/91Writing](https://github.com/ponysb/91Writing) - 一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作
-
-*   [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 
 *   [chen-banxia/message-center-ui](https://github.com/chen-banxia/message-center-ui) - 一个简单的企业级消息中心，纯demo，仅供参考，前端项目，使用vue3搭建，store暂存数据，可能对你有用
 
@@ -3203,6 +3201,8 @@
 *   [huangzworks/redis-3.0-annotated](https://github.com/huangzworks/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 
 *   [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## Dockerfile
 
