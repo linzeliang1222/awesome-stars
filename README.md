@@ -17,6 +17,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Typst](#typst)
@@ -27,7 +28,6 @@
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
-*   [Go](#go)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [CSS](#css)
@@ -69,6 +69,408 @@
 *   [Blade](#blade)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - TokenRouter is the LLM gateway used by TokenFlux
+
+*   [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
+
+*   [nianzs/sub2api](https://github.com/nianzs/sub2api) - 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例,已支持 opus4.8 感谢@gogoing1024
+
+*   [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
+
+*   [Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API) - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
+
+*   [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
+
+*   [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
+
+*   [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
+
+*   [streetartist/zenproxy](https://github.com/streetartist/zenproxy) -
+
+*   [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
+
+*   [Arron196/CLIProxyAPI](https://github.com/Arron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+
+*   [james-6-23/codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
+
+*   [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
+
+*   [zhangrr/CLIProxyAPI](https://github.com/zhangrr/CLIProxyAPI) - modify CLIProxyAPI
+
+*   [XxxXTeam/business2api](https://github.com/XxxXTeam/business2api) - OpenAI/Gemini 兼容的 Gemini Business API 代理服务
+
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
+
+*   [chun1617/Kir-Manager](https://github.com/chun1617/Kir-Manager) -
+
+*   [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.
+
+*   [stellarlinkco/agentsdk-go](https://github.com/stellarlinkco/agentsdk-go) - Build AI agents in light speed
+
+*   [Mag1cFall/Gemini-Web2API](https://github.com/Mag1cFall/Gemini-Web2API) - 将 Google Gemini Web 转换为 OpenAI 兼容的 API
+
+*   [nineyuanz/kiro2api](https://github.com/nineyuanz/kiro2api) -
+
+*   [oneclickvirt/oneclickvirt](https://github.com/oneclickvirt/oneclickvirt) - Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt
+
+*   [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
+
+*   [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
+
+*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility.
+
+*   [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
+
+*   [deanxv/done-hub](https://github.com/deanxv/done-hub) -
+
+*   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
+
+*   [daodao97/code-switch](https://github.com/daodao97/code-switch) - Claude Code & Codex 多供应商代理与管理工具
+
+*   [Rogers-F/code-switch-R](https://github.com/Rogers-F/code-switch-R) - Claude Code & Codex 多供应商代理与管理工具
+
+*   [yxhpy/qcc\_plus](https://github.com/yxhpy/qcc_plus) - Claude Code CLI 代理服务器 - 多租户、自动故障切换、Web 管理界面
+
+*   [BenedictKing/claude-proxy](https://github.com/BenedictKing/claude-proxy) - only one claude code proxy
+
+*   [Veloera/Veloera](https://github.com/Veloera/Veloera) -
+
+*   [Done-0/gin-scaffold](https://github.com/Done-0/gin-scaffold) - Gin-Scaffold is a modern Go web service scaffolding built on the high-performance Gin framework, designed for medium to large-scale enterprise projects. It integrates mainstream development tools, best practices, and engineering standards to help teams quickly build highly available and maintainable web services. Gin-Scaffold 是一个现代化的 Go Web 服务端脚手架。
+
+*   [kao0312/grok-proxy](https://github.com/kao0312/grok-proxy) - 让 Grok Chat 物尽其用
+
+*   [caidaoli/ccLoad](https://github.com/caidaoli/ccLoad) - AI API gateway that ends manual channel switching with smart routing, auto failover, exponential cooldown, multi-URL scheduling, live request monitoring and soft-error detection.
+
+*   [jasonwong1991/easy\_proxies](https://github.com/jasonwong1991/easy_proxies) - A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。
+
+*   [layou233/NeverIdle](https://github.com/layou233/NeverIdle) - 资源定期浪费，可用于 Oracle 甲骨文保活。
+
+*   [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - ✨ 现代化代理订阅管理平台 | 智能分类 · 专业测速 · 链式中转 · 流量监控 · TG管理 · JS扩展 | Go+React 全新UI 🌍 Modern Proxy Subscription Manager | Smart Tags · Speed Test · Relays · Monitor · TG Bot · JS Scripts
+
+*   [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
+
+*   [AntiHub-Project/AntiHook](https://github.com/AntiHub-Project/AntiHook) -
+
+*   [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
+
+*   [Firfr/homebox-zh-cn](https://github.com/Firfr/homebox-zh-cn) - 家庭物品管理系统汉化 源项目 https://github.com/hay-kot/homebox
+
+*   [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
+
+*   [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
+
+*   [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
+
+*   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+
+*   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+
+*   [lich0821/ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
+
+*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
+
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+
+*   [Luyongcong-0711/xiaohongshu\_auto\_tools](https://github.com/Luyongcong-0711/xiaohongshu_auto_tools) -
+
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
+
+*   [xinhai-ai/endpoint\_forwarder](https://github.com/xinhai-ai/endpoint_forwarder) -
+
+*   [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
+
+*   [cexll/mall-go](https://github.com/cexll/mall-go) - Multifunctional microservice system | 包含分期 众筹 秒杀 拼团 抽奖 配送 生鲜 优惠券 会员 多商户 商城 的系统
+
+*   [quangdangfit/go-admin](https://github.com/quangdangfit/go-admin) - RBAC scaffolding based on Gin + Gorm + Casbin + Dig
+
+*   [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
+
+*   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
+
+*   [mix-go/mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
+
+*   [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
+
+*   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
+
+*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
+
+*   [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api) -
+
+*   [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+
+*   [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.
+
+*   [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
+
+*   [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+
+*   [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for go framework \[gin/iris]
+
+*   [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
+
+*   [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.基于 Golang + Gin + GORM 2.0 + Casbin 2.0 + Wire DI 的轻量级、灵活、优雅且功能齐全的 RBAC 脚手架。
+
+*   [wenjianzhang/go-admin](https://github.com/wenjianzhang/go-admin) - ⚠️⚠️⚠️⚠️go-admin项目地址已经转移https://github.com/go-admin-team/go-admin
+
+*   [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
+
+*   [putyy/ai-share](https://github.com/putyy/ai-share) - gin、vue3、wepy写的一个小程序项目
+
+*   [gnimli/go-web-mini](https://github.com/gnimli/go-web-mini) - Go + Vue开发的管理系统脚手架, 前后端分离, 仅包含项目开发的必需部分, 基于角色的访问控制(RBAC), 分包合理, 精简易于扩展。 后端Go包含了gin、 gorm、 jwt和casbin等的使用, 前端Vue基于vue-element-admin开发
+
+*   [hequan2017/go-admin](https://github.com/hequan2017/go-admin) - go web api，包含gin+gorm+jwt+rbac等。
+
+*   [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+
+*   [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
+
+*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+
+*   [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro
+
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+
+*   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
+
+*   [storyicon/grbac](https://github.com/storyicon/grbac) - 👮 grbac is a fast, elegant and concise RBAC(role-based access control) framework
+
+*   [BetterAndBetterII/excalidraw-full](https://github.com/BetterAndBetterII/excalidraw-full) - Excalidraw Full: Your Self-Hosted, Cloud-Ready Collaboration Platform
+
+*   [fengxxc/wechatmp2markdown](https://github.com/fengxxc/wechatmp2markdown) - 微信公众号文章转Markdown
+
+*   [toolsetlink/durl](https://github.com/toolsetlink/durl) - short-url    distributed and high-performance   高性能短链接服务 短网址
+
+*   [hellodword/tailscale-derp-client-verifier](https://github.com/hellodword/tailscale-derp-client-verifier) -
+
+*   [cexll/claude-code-env](https://github.com/cexll/claude-code-env) - Claude Code Multi-Environment Setup Manager
+
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+
+*   [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution
+
+*   [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
+
+*   [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
+
+*   [deanxv/go-geoip](https://github.com/deanxv/go-geoip) - 基于MaxMind的GeoIP库的IP信息查询服务
+
+*   [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
+
+*   [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+
+*   [gaoyb7/115drive-webdav](https://github.com/gaoyb7/115drive-webdav) - 115 网盘 WebDAV 服务
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [kubackup/kubackup](https://github.com/kubackup/kubackup) - A Simple, Open-Source, and Modern Web UI for Restic.
+
+*   [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
+
+*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+
+*   [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
+
+*   [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
+
+*   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
+
+*   [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
+
+*   [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
+
+*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+
+*   [CJSen/lsx](https://github.com/CJSen/lsx) - Impressive Linux commands cheat sheet CLI written in Go.Secondary developmentof the original project: https://github.com/chenjiandongx/pls
+
+*   [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
+
+*   [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
+
+*   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+
+*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+
+*   [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+*   [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
+
+*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+
+*   [prometheus-community/postgres\_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
+
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+
+*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+
+*   [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+
+*   [twofas/2fas-server](https://github.com/twofas/2fas-server) - Source code for 2FAS Auth server
+
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+*   [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+
+*   [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+
+*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+
+*   [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
+
+*   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+
+*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
+
+*   [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
+
+*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+
+*   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
+
+*   [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+
+*   [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+*   [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+
+*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+*   [bililive-go/bililive-go](https://github.com/bililive-go/bililive-go) - 一个直播录制工具
+
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+*   [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+
+*   [AlistGo/alist-proxy](https://github.com/AlistGo/alist-proxy) - Use another machine/cf-works to proxy alist's traffic
+
+*   [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
+
+*   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+
+*   [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+
+*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+
+*   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+
+*   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
+
+*   [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
+
+*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+*   [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+
+*   [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+
+*   [rainbend/frp-notify](https://github.com/rainbend/frp-notify) - 一个专注于消息通知的 frp server manager plugin 实现，让你对进入 frps 的连接了如指掌。
+
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [linzeliang1222/nezha](https://github.com/linzeliang1222/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
+
+*   [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
+
+*   [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
+
+*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+*   [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+*   [koho/frpmgr](https://github.com/koho/frpmgr) - A user-friendly desktop GUI client for FRP on Windows.
+
+*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。
+
+*   [xiaoyi510/rustdesk-api-server](https://github.com/xiaoyi510/rustdesk-api-server) - RustDesk Api Server
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+*   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
+
+*   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+
+*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+
+*   [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
+
+*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+
+*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## JavaScript
 
@@ -455,8 +857,6 @@
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 *   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
-
-*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 
 ## Shell
 
@@ -1416,8 +1816,6 @@
 
 *   [dromara/yft-design](https://github.com/dromara/yft-design) - yft-design is a powerful, visually stunning online design tool built with Vue3, fabric.js, and Element Plus. 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
-
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
@@ -1593,6 +1991,8 @@
 *   [canarybyte/veridrop](https://github.com/canarybyte/veridrop) - AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。
 
 *   [Wing900/dots2api](https://github.com/Wing900/dots2api) - dots.ai OpenAI compatible API
+
+*   [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
 *   [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 
@@ -2148,404 +2548,6 @@
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-## Go
-
-*   [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
-
-*   [nianzs/sub2api](https://github.com/nianzs/sub2api) - 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例,已支持 opus4.8 感谢@gogoing1024
-
-*   [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
-
-*   [Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API) - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
-
-*   [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
-
-*   [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
-
-*   [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
-
-*   [streetartist/zenproxy](https://github.com/streetartist/zenproxy) -
-
-*   [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
-
-*   [Arron196/CLIProxyAPI](https://github.com/Arron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-
-*   [james-6-23/codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
-
-*   [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
-
-*   [zhangrr/CLIProxyAPI](https://github.com/zhangrr/CLIProxyAPI) - modify CLIProxyAPI
-
-*   [XxxXTeam/business2api](https://github.com/XxxXTeam/business2api) - OpenAI/Gemini 兼容的 Gemini Business API 代理服务
-
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
-
-*   [chun1617/Kir-Manager](https://github.com/chun1617/Kir-Manager) -
-
-*   [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.
-
-*   [stellarlinkco/agentsdk-go](https://github.com/stellarlinkco/agentsdk-go) - Build AI agents in light speed
-
-*   [Mag1cFall/Gemini-Web2API](https://github.com/Mag1cFall/Gemini-Web2API) - 将 Google Gemini Web 转换为 OpenAI 兼容的 API
-
-*   [nineyuanz/kiro2api](https://github.com/nineyuanz/kiro2api) -
-
-*   [oneclickvirt/oneclickvirt](https://github.com/oneclickvirt/oneclickvirt) - Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt
-
-*   [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
-
-*   [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
-
-*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility.
-
-*   [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
-
-*   [deanxv/done-hub](https://github.com/deanxv/done-hub) -
-
-*   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
-
-*   [daodao97/code-switch](https://github.com/daodao97/code-switch) - Claude Code & Codex 多供应商代理与管理工具
-
-*   [Rogers-F/code-switch-R](https://github.com/Rogers-F/code-switch-R) - Claude Code & Codex 多供应商代理与管理工具
-
-*   [yxhpy/qcc\_plus](https://github.com/yxhpy/qcc_plus) - Claude Code CLI 代理服务器 - 多租户、自动故障切换、Web 管理界面
-
-*   [BenedictKing/claude-proxy](https://github.com/BenedictKing/claude-proxy) - only one claude code proxy
-
-*   [Veloera/Veloera](https://github.com/Veloera/Veloera) -
-
-*   [Done-0/gin-scaffold](https://github.com/Done-0/gin-scaffold) - Gin-Scaffold is a modern Go web service scaffolding built on the high-performance Gin framework, designed for medium to large-scale enterprise projects. It integrates mainstream development tools, best practices, and engineering standards to help teams quickly build highly available and maintainable web services. Gin-Scaffold 是一个现代化的 Go Web 服务端脚手架。
-
-*   [kao0312/grok-proxy](https://github.com/kao0312/grok-proxy) - 让 Grok Chat 物尽其用
-
-*   [caidaoli/ccLoad](https://github.com/caidaoli/ccLoad) - AI API gateway that ends manual channel switching with smart routing, auto failover, exponential cooldown, multi-URL scheduling, live request monitoring and soft-error detection.
-
-*   [jasonwong1991/easy\_proxies](https://github.com/jasonwong1991/easy_proxies) - A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。
-
-*   [layou233/NeverIdle](https://github.com/layou233/NeverIdle) - 资源定期浪费，可用于 Oracle 甲骨文保活。
-
-*   [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - ✨ 现代化代理订阅管理平台 | 智能分类 · 专业测速 · 链式中转 · 流量监控 · TG管理 · JS扩展 | Go+React 全新UI 🌍 Modern Proxy Subscription Manager | Smart Tags · Speed Test · Relays · Monitor · TG Bot · JS Scripts
-
-*   [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
-
-*   [AntiHub-Project/AntiHook](https://github.com/AntiHub-Project/AntiHook) -
-
-*   [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
-
-*   [Firfr/homebox-zh-cn](https://github.com/Firfr/homebox-zh-cn) - 家庭物品管理系统汉化 源项目 https://github.com/hay-kot/homebox
-
-*   [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
-
-*   [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
-
-*   [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
-
-*   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
-
-*   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-
-*   [lich0821/ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
-
-*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
-
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
-
-*   [Luyongcong-0711/xiaohongshu\_auto\_tools](https://github.com/Luyongcong-0711/xiaohongshu_auto_tools) -
-
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
-
-*   [xinhai-ai/endpoint\_forwarder](https://github.com/xinhai-ai/endpoint_forwarder) -
-
-*   [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-
-*   [cexll/mall-go](https://github.com/cexll/mall-go) - Multifunctional microservice system | 包含分期 众筹 秒杀 拼团 抽奖 配送 生鲜 优惠券 会员 多商户 商城 的系统
-
-*   [quangdangfit/go-admin](https://github.com/quangdangfit/go-admin) - RBAC scaffolding based on Gin + Gorm + Casbin + Dig
-
-*   [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
-
-*   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
-
-*   [mix-go/mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
-
-*   [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
-
-*   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
-
-*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
-
-*   [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api) -
-
-*   [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
-
-*   [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.
-
-*   [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
-
-*   [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-
-*   [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for go framework \[gin/iris]
-
-*   [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
-
-*   [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.基于 Golang + Gin + GORM 2.0 + Casbin 2.0 + Wire DI 的轻量级、灵活、优雅且功能齐全的 RBAC 脚手架。
-
-*   [wenjianzhang/go-admin](https://github.com/wenjianzhang/go-admin) - ⚠️⚠️⚠️⚠️go-admin项目地址已经转移https://github.com/go-admin-team/go-admin
-
-*   [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
-
-*   [putyy/ai-share](https://github.com/putyy/ai-share) - gin、vue3、wepy写的一个小程序项目
-
-*   [gnimli/go-web-mini](https://github.com/gnimli/go-web-mini) - Go + Vue开发的管理系统脚手架, 前后端分离, 仅包含项目开发的必需部分, 基于角色的访问控制(RBAC), 分包合理, 精简易于扩展。 后端Go包含了gin、 gorm、 jwt和casbin等的使用, 前端Vue基于vue-element-admin开发
-
-*   [hequan2017/go-admin](https://github.com/hequan2017/go-admin) - go web api，包含gin+gorm+jwt+rbac等。
-
-*   [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-
-*   [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
-
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-
-*   [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro
-
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-
-*   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-
-*   [storyicon/grbac](https://github.com/storyicon/grbac) - 👮 grbac is a fast, elegant and concise RBAC(role-based access control) framework
-
-*   [BetterAndBetterII/excalidraw-full](https://github.com/BetterAndBetterII/excalidraw-full) - Excalidraw Full: Your Self-Hosted, Cloud-Ready Collaboration Platform
-
-*   [fengxxc/wechatmp2markdown](https://github.com/fengxxc/wechatmp2markdown) - 微信公众号文章转Markdown
-
-*   [toolsetlink/durl](https://github.com/toolsetlink/durl) - short-url    distributed and high-performance   高性能短链接服务 短网址
-
-*   [hellodword/tailscale-derp-client-verifier](https://github.com/hellodword/tailscale-derp-client-verifier) -
-
-*   [cexll/claude-code-env](https://github.com/cexll/claude-code-env) - Claude Code Multi-Environment Setup Manager
-
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
-
-*   [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution
-
-*   [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
-
-*   [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
-
-*   [deanxv/go-geoip](https://github.com/deanxv/go-geoip) - 基于MaxMind的GeoIP库的IP信息查询服务
-
-*   [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-
-*   [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
-
-*   [gaoyb7/115drive-webdav](https://github.com/gaoyb7/115drive-webdav) - 115 网盘 WebDAV 服务
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
-*   [kubackup/kubackup](https://github.com/kubackup/kubackup) - A Simple, Open-Source, and Modern Web UI for Restic.
-
-*   [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
-
-*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-
-*   [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
-
-*   [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-
-*   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-
-*   [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
-
-*   [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
-
-*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
-
-*   [CJSen/lsx](https://github.com/CJSen/lsx) - Impressive Linux commands cheat sheet CLI written in Go.Secondary developmentof the original project: https://github.com/chenjiandongx/pls
-
-*   [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
-
-*   [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
-
-*   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-
-*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-
-*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-
-*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-
-*   [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
-
-*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-
-*   [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
-
-*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-
-*   [prometheus-community/postgres\_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
-
-*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-
-*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
-
-*   [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
-
-*   [twofas/2fas-server](https://github.com/twofas/2fas-server) - Source code for 2FAS Auth server
-
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-
-*   [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
-
-*   [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
-
-*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-
-*   [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-
-*   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-
-*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
-
-*   [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
-
-*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-
-*   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
-
-*   [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
-
-*   [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-
-*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-
-*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-*   [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
-
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [bililive-go/bililive-go](https://github.com/bililive-go/bililive-go) - 一个直播录制工具
-
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-*   [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-
-*   [AlistGo/alist-proxy](https://github.com/AlistGo/alist-proxy) - Use another machine/cf-works to proxy alist's traffic
-
-*   [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
-
-*   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-
-*   [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
-
-*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-
-*   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-
-*   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
-
-*   [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
-
-*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-
-*   [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-
-*   [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-
-*   [rainbend/frp-notify](https://github.com/rainbend/frp-notify) - 一个专注于消息通知的 frp server manager plugin 实现，让你对进入 frps 的连接了如指掌。
-
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
-
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [linzeliang1222/nezha](https://github.com/linzeliang1222/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-
-*   [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-
-*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
-
-*   [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-
-*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-
-*   [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-*   [koho/frpmgr](https://github.com/koho/frpmgr) - A user-friendly desktop GUI client for FRP on Windows.
-
-*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。
-
-*   [xiaoyi510/rustdesk-api-server](https://github.com/xiaoyi510/rustdesk-api-server) - RustDesk Api Server
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-
-*   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
-
-*   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
-
-*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-
-*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-
-*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
-
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
-
-*   [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
-
-*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-
-*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-
 ## Swift
 
 *   [Octane0411/open-vibe-island](https://github.com/Octane0411/open-vibe-island) - The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm. 开源的vibe-island替代品，为重度code agent用户设计，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm
@@ -3027,8 +3029,6 @@
 *   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。
 
 *   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
-
-*   [xb2016/kratos-pjax](https://github.com/xb2016/kratos-pjax) - 🍨 A lovely WordPress theme \[DEPRECATED]
 
 ## Jupyter Notebook
 
